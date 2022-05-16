@@ -2,6 +2,6 @@
 - 📫 How to reach me Christian.#5147
 
 Current Projects:
-- FusionAPI.dev
-- Servistics.co
-- Fortifyhost.net
+- FusionAPI.dev | Infrastructure Manager
+- Servistics.co | CEO
+- Fortifyhost.net | Server Technician
