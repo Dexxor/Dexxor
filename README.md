@@ -4,4 +4,3 @@
 Current Projects:
 - FusionAPI.dev | Infrastructure Manager
 - Servistics.co | CEO
-- Fortifyhost.net | Server Technician
